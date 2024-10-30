@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|c:\\users\\allahverdi\\source\\repos\\abstractclass,methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|c:\\users\\allahverdi\\source\\repos\\abstractclass,methods\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|c:\\users\\allahverdi\\source\\repos\\abstractclass,methods\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|c:\\users\\allahverdi\\source\\repos\\abstractclass,methods\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240A6743-9DDF-43AD-83DA-0B2D1B1BDD8F}|AbstractClass,Methods.csproj|solutionrelative:bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Bicycle.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Bicycle.cs",
+              "RelativeToolTip": "Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:58:48.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:46:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:17:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\source\\repos\\AbstractClass,Methods\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA5wCwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:18:27.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
